@@ -18,3 +18,5 @@ win rate= 37 percent
 averge win size percent 12.07
 averge lose size percent -4.36
 CAGR= 26.06 percent
+
+
