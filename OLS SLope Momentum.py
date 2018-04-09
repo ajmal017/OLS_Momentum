@@ -2,10 +2,7 @@
 """
 
 
-Modified MA Crossover strategy with slope change exit
-
-
-@author: yji
+@author: traderji
 """
 def OLS_Momentum_orders(securities, fast, slow, stop=100):
     """
